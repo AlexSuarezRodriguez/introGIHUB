@@ -29,3 +29,9 @@ body{
 #contenedor h1{
 font-size: 40px;
 }
+#footer{
+    background: #777 ;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
+}
