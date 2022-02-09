@@ -3,4 +3,4 @@ hola a todos este un paso mas para aprender a manejar git, con la practica se lo
 mi nombre es alexander suarez r,tengo 28 años estuve trabajando y estudiendo pero he llegado a un punto donde he decido centrarme a estudiar. actualemnete estoy desempleado pero con la intencion de seguir aprendiendo sobre el mundo de la progremacion
 actualmente es una tecnologia la cual ha venido teniendo gran impacto por sus ventajas ya que se logra adaptar.
 
-como todo programador inicie realizando el famoso programa hola mundo y compartiendo los programas con personas con mas experiencia por eso ya el archivo es modificado por varios programadores.
+como todo programador inicie realizando el famoso programa hola mundo y compartiendo los programas con personas con mas experiencia por eso ya el archivo es modificado por varios programadores de diferentes lugares.
